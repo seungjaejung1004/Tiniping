@@ -23,5 +23,4 @@
    - 즉각적인 결과 : 사용자들은 자신의 티니핑 유사성에 대한 빠른 피드백을 받아 상호작용성과 참여감을 높입니다.
    - 소셜 공유 : 사용자는 개인화된 티니핑 결과를 소셜 미디어 플랫폼에서 쉽게 공유할 수 있어 커뮤니티 참여를유도합니다.
 
-
-    ![image](https://github.com/user-attachments/assets/a42b7b03-e3b8-4215-9a33-2c428cad010b)
+![image](https://github.com/user-attachments/assets/a42b7b03-e3b8-4215-9a33-2c428cad010b)
