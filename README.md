@@ -1,4 +1,4 @@
-### ✅ ResNet활용 얼굴인식을 통한 티니핑 캐릭터 유사도 판별 프로젝트
+![KakaoTalk_20251028_135357657](https://github.com/user-attachments/assets/a61d0338-0cb9-4eaf-970b-864539085a25)### ✅ ResNet활용 얼굴인식을 통한 티니핑 캐릭터 유사도 판별 프로젝트
 ***
 ### 💻 개발언어
 <img src="https://skillicons.dev/icons?i=python,dcomponents&perline="/>
@@ -24,3 +24,4 @@
    - 소셜 공유 : 사용자는 개인화된 티니핑 결과를 소셜 미디어 플랫폼에서 쉽게 공유할 수 있어 커뮤니티 참여를유도합니다.
 
 ![image](https://github.com/user-attachments/assets/a42b7b03-e3b8-4215-9a33-2c428cad010b)
+![KakaoTalk_20251028_135357657](https://github.com/user-attachments/assets/f396fc3a-d244-4fb9-9b62-5b90054fa65f)
