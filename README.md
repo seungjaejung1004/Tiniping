@@ -1,4 +1,4 @@
-![KakaoTalk_20251028_135357657](https://github.com/user-attachments/assets/a61d0338-0cb9-4eaf-970b-864539085a25)### ✅ ResNet활용 얼굴인식을 통한 티니핑 캐릭터 유사도 판별 프로젝트
+### ✅ ResNet활용 얼굴인식을 통한 티니핑 캐릭터 유사도 판별 프로젝트
 ***
 ### 💻 개발언어
 <img src="https://skillicons.dev/icons?i=python,dcomponents&perline="/>
